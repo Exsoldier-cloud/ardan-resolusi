@@ -2,11 +2,13 @@ Rencana pembuatan programming
 
 - membuat sebuah sistem informasi berbasis web dan mobile
   * PT ALI MAKMUR GEMILANG
-    ^ data karyawan
+     ^ data karyawan
   * PT INDONESIA VAPE STORE
-    ^ sistem transaksi berbasis aplikasi
-    ^ data karyawan
+      ^ data stok product
   * PT JALA NIAGA ELOK
+     ^ update program E-Wallet
+- Struktur Data Dasar
 - praktekan javascript dan css lebih sering lagi 
 - pelajari lebih lanjut tentang laravel dan mysql
 - java dan php juga dipraktekan lebih sering lagi
+- Phyton
