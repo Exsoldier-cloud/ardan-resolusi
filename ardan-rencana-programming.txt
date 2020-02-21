@@ -1,0 +1,6 @@
+Rencana pembuatan programming
+
+- membuat sebuah sistem informasi berbasis web dan mobile
+- praktekan javascript dan css lebih sering lagi 
+- pelajari lebih lanjut tentang laravel dan mysql
+- java dan php juga dipraktekan lebih sering lagi
