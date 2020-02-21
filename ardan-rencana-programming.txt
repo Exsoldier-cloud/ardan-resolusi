@@ -1,0 +1,9 @@
+Rencana pembuatan programming
+
+- membuat sebuah sistem informasi berbasis web dan mobile
+  * PT ALI MAKMUR GEMILANG
+  * PT INDONESIA VAPE STORE
+  * PT JALA NIAGA ELOK
+- praktekan javascript dan css lebih sering lagi 
+- pelajari lebih lanjut tentang laravel dan mysql
+- java dan php juga dipraktekan lebih sering lagi
